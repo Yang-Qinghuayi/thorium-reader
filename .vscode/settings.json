@@ -24,4 +24,8 @@
   "javascript.preferences.quoteStyle": "double",
   "typescript.preferences.quoteStyle": "double",
   "prettier.singleQuote": false,
+  "i18n-ally.localesPaths": [
+    "src/resources/locales",
+    "src/common/redux/actions/i18n"
+  ],
 }
